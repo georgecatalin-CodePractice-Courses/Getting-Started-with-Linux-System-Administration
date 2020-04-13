@@ -1,0 +1,15 @@
+ cd /proc
+  805  less meminfo
+  806  less cpuinfo
+  807  top
+  808  free
+  809  free -h
+  810  df
+  811  df -ht
+  812  df -ht ext4
+  813  apt update
+  814  sudo apt update
+  815  sudo apt install iftop
+  816  ip addr
+  817  iftop -i enp0s3
+  818  sudo iftop -i enp0s3
